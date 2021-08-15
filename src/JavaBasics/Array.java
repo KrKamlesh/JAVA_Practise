@@ -3,7 +3,7 @@ package JavaBasics;
 public class Array 
 {
 	public static void main(String[] args) {
-		
+		//this is just to chek merge request
 		int i[]=new int[8];
 		       i[0]=10;
 				i[1]=20;
